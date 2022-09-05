@@ -16,4 +16,3 @@ double b2 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Введите координату k2: ");
 double k2 = Convert.ToDouble(Console.ReadLine());
 cross_coordinates(k1,b1,k2,b2);
-
